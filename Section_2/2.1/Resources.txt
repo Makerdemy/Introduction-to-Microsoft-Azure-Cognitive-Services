@@ -1,0 +1,11 @@
+Face API
+
+https://azure.microsoft.com/en-in/services/cognitive-services/face/#overview
+
+Computer Vision
+
+https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
+
+Custom Vision
+
+https://azure.microsoft.com/en-in/services/cognitive-services/custom-vision-service/
