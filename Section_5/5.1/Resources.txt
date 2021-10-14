@@ -1,0 +1,11 @@
+Anomaly Detector:
+
+https://azure.microsoft.com/en-in/services/cognitive-services/anomaly-detector/
+
+Content Moderator:
+
+https://azure.microsoft.com/en-in/services/cognitive-services/content-moderator/
+
+Personalizer:
+
+https://azure.microsoft.com/en-in/services/cognitive-services/personalizer/
