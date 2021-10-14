@@ -1,0 +1,15 @@
+Speech Recognition:
+
+https://azure.microsoft.com/en-in/services/cognitive-services/speech-to-text/
+
+Text to Speech:
+
+https://azure.microsoft.com/en-in/services/cognitive-services/text-to-speech/
+
+Speech Translation:
+
+https://azure.microsoft.com/en-in/services/cognitive-services/speech-translation/
+
+Speaker Recognition:
+
+https://azure.microsoft.com/en-in/services/cognitive-services/speaker-recognition/
